@@ -58,6 +58,7 @@ console.log(minhaNave.voar());
 console.log(minhaNaveJedi.voar());
 console.log(minhaNaveSith.voar());
 
-console.log(minhaNave());
+cconsole.log(minhaNave.receberInfo());
 console.log(minhaNaveJedi.ativarHiperespaco());
 console.log(minhaNaveSith.ativarHiperespaco());
+
